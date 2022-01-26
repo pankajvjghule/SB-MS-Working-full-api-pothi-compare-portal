@@ -1,0 +1,26 @@
+
+h
+java:S1192c"RDefine a constant instead of duplicating this literal "getName Exception" 3 times.(€éÛœ
+[	java:S112c"FDefine and throw a dedicated exception instead of using a generic one.(€éÛœ
+[	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(€éÛœ
+[	java:S112u"FDefine and throw a dedicated exception instead of using a generic one.(€éÛœ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¸Øˆ‹þÿÿÿÿ
+O
+java:S1854b":Remove this useless assignment to local variable "myName".(™Ü¯
+V	java:S125"<This block of commented-out lines of code should be removed.(“¯–…øÿÿÿÿ
+V	java:S125,"<This block of commented-out lines of code should be removed.(“¯–…øÿÿÿÿ
+V	java:S125A"<This block of commented-out lines of code should be removed.(“¯–…øÿÿÿÿ
+P	java:S125d"<This block of commented-out lines of code should be removed.(ƒ‹â>
+U
+java:S1854k":Remove this useless assignment to local variable "myName".(«ÉÓ‰ÿÿÿÿÿ
+Q	java:S125m"<This block of commented-out lines of code should be removed.(œ‡Æµ
+P
+java:S1854t":Remove this useless assignment to local variable "myName".(¬»¿ž
+Q	java:S125v"<This block of commented-out lines of code should be removed.(îÚêð
+@
+java:S1481b"+Remove this unused "myName" local variable.(™Ü¯
+F
+java:S1481k"+Remove this unused "myName" local variable.(«ÉÓ‰ÿÿÿÿÿ
+A
+java:S1481t"+Remove this unused "myName" local variable.(¬»¿ž

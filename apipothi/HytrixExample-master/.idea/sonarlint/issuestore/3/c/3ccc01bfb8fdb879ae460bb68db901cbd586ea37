@@ -1,0 +1,14 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ýëâ¯
+[	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ž¬­ï
+`	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(µÙ²Âþÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‰®äÅþÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(‡ÐÑ¾
+Q	java:S125%"<This block of commented-out lines of code should be removed.(’Ô‚š
+Q	java:S125,"<This block of commented-out lines of code should be removed.(ýÎ¸Ë
+O
+java:S34000"9Remove this method and declare a constant for this value.(Úø ¨
+Q	java:S1255"<This block of commented-out lines of code should be removed.(·ÝÐƒ
+E
+java:S1068"*Remove this unused "logger" private field.(‰®äÅþÿÿÿÿ
